@@ -15,12 +15,3 @@ You can install the development version of MultData from [GitHub](https://github
 devtools::install_github("ajrgodfrey/MultData")
 ```
 
-## Example
-
-This is a basic example which shows you how to solve a common problem:
-
-``` r
-library(MultData)
-## basic example code
-```
-
