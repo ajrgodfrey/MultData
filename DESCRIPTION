@@ -1,14 +1,19 @@
 Package: MultData
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: Datasets used in Teaching/Learning multivariate analysis techniques 
+Version: 0.0.1
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("A. Jonathan R.", "Godfrey", , "a.j.godfrey@massey.ac.nz", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-8129-8835"))
+Description: Datasets used in teaching multivariate analysis techniques are not always ready for immediate use. Datasets have been manually entered or electronically obtained and then curated to use upper camel case for dataset and variable names where possible; exceptions exist for data obtained from official textbook websites. Categorical variables are stored as factors;  numeric-valued factors may be stored as both numeric and factor variables. 
+License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
 URL: https://github.com/ajrgodfrey/MultData
 BugReports: https://github.com/ajrgodfrey/MultData/issues
+Suggests: 
+    spelling
+Language: en-US
+Depends: 
+    R (>= 2.10)
+LazyData: true
