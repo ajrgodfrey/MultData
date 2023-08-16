@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of MultData is to ...
+The goal of MultData is to provide read-to-use datasets in the teaching and learningof multivariate data analysis techniques.
 
 ## Installation
 
