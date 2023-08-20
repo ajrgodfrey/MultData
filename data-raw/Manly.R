@@ -10,6 +10,8 @@ for(Dataset in Datasets){
   assign(Dataset, read.csv(paste0("https://R-resources.massey.ac.nz/data/Manly/", Dataset, ".csv"), stringsAsFactors = TRUE))
   }
 
+
+
 usethis::use_data(BannadiBurials, overwrite = TRUE)
 usethis::use_data(Belize, overwrite = TRUE)
 usethis::use_data(BumpusSparrows, overwrite = TRUE)
