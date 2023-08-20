@@ -4,11 +4,8 @@
 \alias{RoadsNZ}
 \title{Road Distances between NZ Towns Data from Manly (1994)}
 \format{
-\if{html}{\out{<div class="sourceCode">}}\preformatted{A data frame with observations on the following variables.
+\if{html}{\out{<div class="sourceCode">}}\preformatted{A data frame with distances between Alexandra, Balclutha, Blenheim, Christchurch, Dunedin, Franz.Josef, Greymouth, Invercargill, Milford, Nelson, Queenstown, Te.Anau, and Timaru.
 }\if{html}{\out{</div>}}
-
-\describe{
-}
 }
 \usage{
 RoadsNZ
