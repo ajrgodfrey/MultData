@@ -1,21 +1,5 @@
 ### Data used in Manly texts 1986, 1994 (primary reference), and most recently in 2017
-##   BannadiBurials, Belize, BumpusSparrows, ButterflyColonies, EgyptianSkulls, EuroEmp, EuroFood, Goblets, PrehistoricDogs, RoadsNZ, Steneryd, VotingNJ
-
-#'
-#' PrehistoricDogs Data from Manly (1994)
-#'
-#' Table 1.4 on page 10 of Manly (1994)
-#'
-#' @rdname PrehistoricDogs
-#' @name PrehistoricDogs
-#' @format 
-#'     A data frame with observations on the following variables.
-#'  \describe{
-#' }
-#' @references Manly, B.F.J. (1994) \emph{Multivariate Statistical Methods: A Primer}, Second Edition, CRC Press.
-#' @author contributed by A. Jonathan R. Godfrey
-#' @usage PrehistoricDogs
-NULL
+##   BannadiBurials, Belize, BumpusSparrows, ButterflyColonies, EgyptianSkulls, EuroEmp, EuroFood, Goblets, Mandible, RoadsNZ, Steneryd, VotingNJ
 
 
 
@@ -132,6 +116,7 @@ NULL
 #'   \item{\code{Basialveolar.length}}{a numeric vector}
 #'   \item{\code{Nasal.height}}{a numeric vector}
 #' }
+#' @source also found as dataset No. 361 in Hand et al. (1994)
 #' @references Manly, B.F.J. (1994) \emph{Multivariate Statistical Methods: A Primer}, Second Edition, CRC Press.
 #' @author contributed by A. Jonathan R. Godfrey
 #' @usage EgyptianSkulls
@@ -159,6 +144,7 @@ NULL
 #'   \item{\code{SPS}}{a numeric vector}
 #'   \item{\code{TC}}{a numeric vector}
 #' }
+#' @source also found as dataset No. 363 in Hand et al. (1994)
 #' @references Manly, B.F.J. (1994) \emph{Multivariate Statistical Methods: A Primer}, Second Edition, CRC Press.
 #' @author contributed by A. Jonathan R. Godfrey
 #' @usage EuroEmp
@@ -213,6 +199,24 @@ NULL
 #' @references Manly, B.F.J. (1994) \emph{Multivariate Statistical Methods: A Primer}, Second Edition, CRC Press.
 #' @author contributed by A. Jonathan R. Godfrey
 #' @usage Goblets
+NULL
+
+
+#'
+#' Mandible Data from Manly (1994)
+#'
+#' Table 1.4 on page 10 of Manly (1994)
+#'
+#' @rdname Mandible
+#' @name Mandible
+#' @format 
+#'     A data frame with observations on the following variables.
+#'  \describe{
+#' }
+#' @source also found as dataset No. 358 in Hand et al. (1994)
+#' @references Manly, B.F.J. (1994) \emph{Multivariate Statistical Methods: A Primer}, Second Edition, CRC Press.
+#' @author contributed by A. Jonathan R. Godfrey
+#' @usage Mandible
 NULL
 
 
@@ -277,6 +281,7 @@ NULL
 #'   \item{\code{Daniels.D}}{a numeric vector}
 #'   \item{\code{Pattern.D}}{a numeric vector}
 #' }
+#' @source also found as dataset No. 294 in Hand et al. (1994)
 #' @references Manly, B.F.J. (1994) \emph{Multivariate Statistical Methods: A Primer}, Second Edition, CRC Press.
 #' @author contributed by A. Jonathan R. Godfrey
 #' @usage VotingNJ
