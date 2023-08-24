@@ -21,6 +21,9 @@
 \item{\code{TC}}{a numeric vector}
 }
 }
+\source{
+also found as dataset No. 363 in Hand et al. (1994)
+}
 \usage{
 EuroEmp
 }

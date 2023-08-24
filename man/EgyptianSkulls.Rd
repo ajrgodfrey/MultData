@@ -15,6 +15,9 @@
 \item{\code{Nasal.height}}{a numeric vector}
 }
 }
+\source{
+also found as dataset No. 361 in Hand et al. (1994)
+}
 \usage{
 EgyptianSkulls
 }

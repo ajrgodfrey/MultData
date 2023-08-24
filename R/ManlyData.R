@@ -1,9 +1,6 @@
 ### Data used in Manly texts 1986, 1994 (primary reference), and most recently in 2017
 ##   BannadiBurials, Belize, BumpusSparrows, ButterflyColonies, EgyptianSkulls, EuroEmp, EuroFood, Goblets, Mandible, RoadsNZ, Steneryd, VotingNJ
 
-
-
-
 #'
 #' Bannadi Burials Data from Manly (1994)
 #'

@@ -25,6 +25,9 @@
 \item{\code{Pattern.D}}{a numeric vector}
 }
 }
+\source{
+also found as dataset No. 294 in Hand et al. (1994)
+}
 \usage{
 VotingNJ
 }

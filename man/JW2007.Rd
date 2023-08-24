@@ -13,5 +13,5 @@ The data has undergone minimal cleaning.
 Johnson, and Wichern, (2007) \emph{Applied Multivariate Statistical Analysis}, sixth edition,
 }
 \author{
-contributed by Jonathan Godfrey
+contributed by A. Jonathan R. Godfrey
 }
